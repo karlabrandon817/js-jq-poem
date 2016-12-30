@@ -1,6 +1,41 @@
 body {
   font-family: sans-serif;
-  background-color: peachpuff;
+  background-color: #F2EDD8;
+  text-align: center;
 }
 
-/* Feel free to add your own style! */
+#poemButton{
+  border-radius: 4px;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin-top: 30px;
+  background-color: #F1A94E;
+  color: #5D4C46;
+
+}
+
+#poemDiv{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 40px;
+  width: 50%;
+  padding-top: 50px;
+  font-family: fantasy;
+  color: #E45641;
+}
+
+#poemTitle{
+  font-family: sans-serif;
+  font-size: 57px;
+  margin-top: 40px;
+  font-weight: bold;
+  color: #5D4C46;
+
+}
+
+#textDiv{
+  margin-top: -30px;
+  font-family: sans-serif;
+  color: #5D4C46;
+}
