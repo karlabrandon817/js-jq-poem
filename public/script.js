@@ -1,6 +1,6 @@
 var hughesPoem = ['Like', 'a', 'welcome', 'summer', 'rain,', 'humor',
     'may', 'suddenly', 'cleanse', 'and', 'cool', 'the', 'earth,', 'the', 'air',
-    'and', 'you.'
+    'and', 'you.', '~Langston Hughes~'
 ];
 var currentIndex = 0;
 

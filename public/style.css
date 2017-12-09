@@ -2,16 +2,19 @@ body {
   font-family: sans-serif;
   background-color: #F2EDD8;
   text-align: center;
+  color: #5D4C46;
 }
 
 #poemButton{
   border-radius: 4px;
+  padding: 4px;
   font-size: 20px;
   font-family: sans-serif;
   margin-top: 30px;
   background-color: #F1A94E;
   color: #5D4C46;
-
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 #poemDiv{
@@ -21,7 +24,7 @@ body {
   font-size: 40px;
   width: 50%;
   padding-top: 50px;
-  font-family: fantasy;
+  font-family: sans-serif;
   color: #E45641;
 }
 
@@ -30,12 +33,9 @@ body {
   font-size: 57px;
   margin-top: 40px;
   font-weight: bold;
-  color: #5D4C46;
-
 }
 
 #textDiv{
-  margin-top: -30px;
+  margin-top: -45px;
   font-family: sans-serif;
-  color: #5D4C46;
 }
